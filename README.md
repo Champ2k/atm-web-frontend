@@ -10,3 +10,5 @@ docker build -t atm-docker .
 docker run -d -p 9000:8090 atm-docker
 ```
 
+### Author 
+by Wikrom Chanthakhun 6110546631 
